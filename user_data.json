@@ -1,0 +1,26 @@
+{
+    "user_data": [
+        {
+            "id": 1,
+            "first_name": "Jon",
+            "last_name": "Snow",
+            "phone_number": "0294848933",
+            "password": "password",
+            "username": "",
+            "bvn": "",
+            "account_type": ""
+        },
+        {
+            "id": 4,
+            "first_name": "Jane",
+            "last_name": "Doe",
+            "phone_number": "038374643",
+            "password": "password",
+            "username": "",
+            "bvn": "",
+            "account_type": ""
+        }
+    ],
+    "individual_accounts": [],
+    "corporate_account": []
+}
